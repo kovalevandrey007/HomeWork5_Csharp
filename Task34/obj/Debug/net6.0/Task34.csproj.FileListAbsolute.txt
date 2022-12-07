@@ -1,0 +1,30 @@
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.exe
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.deps.json
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.dll
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.pdb
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.dll
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/refint/Task34.dll
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.pdb
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
+D:/GIT repozitory from kovalevandrey007 in GitHub.com/HomeWork5_Csharp/Task34/obj/Debug/net6.0/ref/Task34.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.deps.json
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/bin/Debug/net6.0/Task34.pdb
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/refint/Task34.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.pdb
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task34/obj/Debug/net6.0/ref/Task34.dll
