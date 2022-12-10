@@ -1,0 +1,15 @@
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/bin/Debug/net6.0/Task36
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/bin/Debug/net6.0/Task36.deps.json
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/bin/Debug/net6.0/Task36.runtimeconfig.json
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/bin/Debug/net6.0/Task36.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/bin/Debug/net6.0/Task36.pdb
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.csproj.AssemblyReference.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.GeneratedMSBuildEditorConfig.editorconfig
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.AssemblyInfoInputs.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.AssemblyInfo.cs
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.csproj.CoreCompileInputs.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/refint/Task36.dll
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.pdb
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/Task36.genruntimeconfig.cache
+/home/Andy-PC/Рабочий стол/HomeWork5_Csharp/Task36/obj/Debug/net6.0/ref/Task36.dll
