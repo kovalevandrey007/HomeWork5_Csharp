@@ -1,16 +1,17 @@
-﻿/*Задача 38: Задайте массив вещественных чисел. 
+﻿
+/*Задача 38: Задайте массив вещественных чисел. 
 Найдите разницу между максимальным 
 и минимальным элементов массива.
 
 [3 7 22 2 78] -> 76*/
 
-int[] InitArray(int length)
+/*int[] InitArray(int length)
 {
-    int[] array = new int[6];
+    int[] array = new int[i];
     Random rnd = new Random();
     for (int i = 0; i < length; i++)
     {
-        array[i] = rnd.Next(-10,10);
+        array[i] = rnd.Next(0, 10);
     }
 
     return array;
@@ -27,12 +28,58 @@ void PrintArray(int[] array)
 }
 
 //получает сумму положительных элементов в массиве
+*/
+
+double[] arr = new double [7];
+Random rnd = new Random();
+        arr[i] = -5.0+ rnd.NextDouble()*(-5.0 + 10.5);
+
+(double, double) GetMaxAndMinDiff (double[] arr);
+{
+    double max =0;
+    double min = 0;
+    for (int i = 0; i < arr.Length; i++)
+
+    if(min>i)
+    {
+     min = i;
+     }
+    else
+    {
+    max = i;
+    }
+double result = 0;
+    {
+    if(max>min)
+    result = max-min;
+    else
+    result  = min-max;
+    }
+    return result;
+}
+void PrintArray(double[] arr, double min, double max)
+{
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.WriteLine($"{arr[i]}");
+    }
+Console.WriteLine();
+}
+//(double min double max) = GetMaxMinDiff(arr);
+
+/*
+
+
+
+
+
+
 int GetMax(int[] arr)
 {
     int max = arr[0];
     for (int i = 1; i < arr.Length; i++)
     {
-        if(arr[i] > max)
+        if(max>i)
         {
             max = arr[i];
         }
@@ -45,7 +92,7 @@ int GetMin (int[] arr)
     int min = arr[0];
     for (int i = 1; i < arr.Length; i++)
     {
-        if (arr[i] < min) 
+        if (i < min) 
         {
             min = arr[i];
         }
@@ -53,17 +100,15 @@ int GetMin (int[] arr)
     }
 }
 
-(int, int) GetDiff (int[] arr)
-{
-   int diff = max - min; 
-   return diff;
- }
-int[] arr = InitArray(12);
-PrintArray(arr);
-int max = GetMax(arr);
-int min = GetMin(arr);
-(max, min) = GetDiff(arr);
-Console.WriteLine($"Разность MAX и MIN = {GetDiff}");
+(int, int) GetDiff (int[] arr);
+int max = GetMax(arr[i]);
+int min = GetMin(arr[i]);
+int diff = GetDiff(max, min);
+    {
+     diff = max - min;
+     }
+      return diff;
+
 
 
 /*
