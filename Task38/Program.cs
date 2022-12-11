@@ -1,57 +1,47 @@
-﻿
-/*Задача 38: Задайте массив вещественных чисел. 
+﻿/*Задача 38: Задайте массив вещественных чисел. 
 Найдите разницу между максимальным 
 и минимальным элементов массива.
 
 [3 7 22 2 78] -> 76*/
 
-Console.WriteLine("Ведите размер массива");
-int[] array = InitArray(int.Parse(Console.ReadLine()));
-int[] InitArray(int length)
-{
-    int[] array = new int[length];
-    Random rnd = new Random();
-    for (int i = 0; i < length; i++)
+ int FindMinMaxDiff(int[] array)
     {
-        array[i] = rnd.Next(-10,10);
-    }
-    return array;
-}
-//печатает массив на экран
-void PrintArray(int[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
-PrintArray(array);
-
-int GetMaxAndMinDiff(int[] array)
-{
-    int diff = 0;
-    int min =0;
+    int result = 0;
+    int min = 0;
     int max = 0;
+
     for (int i = 0; i < array.Length; i++)
+        {
+        if (array[min] > array[i])
+             min = i;
+        else if (array[max] < array[i])
+             max = i;
+        }
+Console.WriteLine("min= " + array[min]+ "\tmax= " + array[max]);
+        if (array[min] > array[max])
+            result = array[min] - array[max];
+        else if (array[max] > array[min])
+            result = array[max] - array[min];
+            return result;
+            }
+Console.Write("введите размер массива: ");
+    int size = Convert.ToInt32(Console.ReadLine());
+    int[] array = new int[size];
+    Console.Write("введите минимальное значение: ");
+    int Min = Convert.ToInt32(Console.ReadLine());
+    Console.Write("введите максимальное значение: ");
+    int Max = Convert.ToInt32(Console.ReadLine());
+    int temp = 0;
+    if (Min > Max)
     {
-        if(i>max)
-            i=max;
-        else
-        {
-            i=min;
-        }
-        if(max>min)
-        {
-         diff = max-min;
-        }
-        else
-        {
-        diff = min - max;
-        }
-    }
-    return diff;    
-}
-int diff = GetMaxAndMinDiff (array);
-Console.WriteLine($"Разница между максимальным и минимальным элементов массива = {diff}");
-Console.WriteLine();
+        temp = Max;
+        Max = Min;
+        Min = temp;
+     }
+     Random rand = new Random();
+        for (int i = 0; i < array.Length; i++)
+            array[i] = rand.Next(Min, Max);
+        for (int i = 0; i < array.Length; i++)
+            Console.Write(array[i]+"\t");
+            
+        Console.WriteLine("разница между минимальным и максимальным элементом массива= " + FindMinMaxDiff(array));
